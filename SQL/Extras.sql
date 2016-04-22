@@ -1,0 +1,7 @@
+CREATE TABLE Extras
+(
+	nome TEXT NOT NULL,
+	extrasID INTEGER NOT NULL PRIMARY KEY,
+	UNIQUE(extrasID)
+);
+

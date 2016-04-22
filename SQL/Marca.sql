@@ -1,0 +1,7 @@
+CREATE TABLE Marca
+(
+	nome TEXT NOT NULL,
+	marcaID INTEGER NOT NULL PRIMARY KEY,
+	UNIQUE(marcaID)
+);
+
