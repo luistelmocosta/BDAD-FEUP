@@ -105,8 +105,6 @@ CREATE TABLE Cliente
 );
 
 
-
-
 CREATE TABLE Cobertura
 (
 	coberturaID INTEGER NOT NULL PRIMARY KEY,
